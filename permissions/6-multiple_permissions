@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 600 some_file
+chmod 751 hello
